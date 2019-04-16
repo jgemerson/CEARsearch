@@ -12,6 +12,8 @@ This R Shiny App serves a front-end search feature to improve access to the regi
 
 Full access to the CEA Registry data is available only to [CEVR sponsors](https://cevr.tuftsmedicalcenter.org/sponsorship). Features not accessible in the public version are: complete database results for queries (free version limited to 1000 results), ability to download the database as an excel spreadsheet, CEVR research support and technical assistance.  
 
+Full data and data cleaning files omitted from GitHub upload. Test data uploaded for experimental use.
+
 ## Code structure
 Built with [R Shiny](https://shiny.rstudio.com/) via [R Studio IDE](https://www.rstudio.com/).
 

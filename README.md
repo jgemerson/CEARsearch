@@ -10,7 +10,7 @@ This R Shiny App serves a front-end search feature to improve access to the regi
 ###### [Public Access CEA Registry](https://cevr.shinyapps.io/CEARsearchFreeAccess/)
 ###### [Full CEA Registry](https://cevr.shinyapps.io/CEARsearchFullAccess/)
 
-Full access to the CEA Registry data is available only to [CEVR sponsors](https://cevr.tuftsmedicalcenter.org/sponsorship). Features not accessible in the public version are: complete database results for queries (limited to 1000 results), ability to download the database as an excel spreadsheet, CEVR research support and technical assistance.  
+Full access to the CEA Registry data is available only to [CEVR sponsors](https://cevr.tuftsmedicalcenter.org/sponsorship). Features not accessible in the public version are: complete database results for queries (free version limited to 1000 results), ability to download the database as an excel spreadsheet, CEVR research support and technical assistance.  
 
 ## Code structure
 Built with [R Shiny](https://shiny.rstudio.com/) via [R Studio IDE](https://www.rstudio.com/).
@@ -24,11 +24,13 @@ Packages used:
  - [Shiny JS](https://deanattali.com/shinyjs/)
 
 ## Version
-Current verion: 1.1.7. Beta testing underway. 
+Current verion: 1.1.7.
 
 ## Screenshots
  
 ## Authors and Acknowledgement
 Funded and supported by [CEVR](http://cevr.tuftsmedicalcenter.org/) and [CEVR sponsors](https://cevr.tuftsmedicalcenter.org/sponsorship). 
 
-Developed by Joanna Emerson, with the support from Brittany D'Cruz, Tara Lavelle, Peter J. Neumann, Josh T. Cohen, and Sam Yang.  
+Developed by Joanna Emerson, with the support from Brittany D'Cruz, Tara Lavelle, Peter J. Neumann, Josh T. Cohen, Ari Panzer, and Sam Yang.  
+
+<img src="https://pbs.twimg.com/profile_images/958789469632516096/hUT1dpXt.jpg" width="150" height="150"> <img src="https://jobs.tuftsmedicalcenter.org/jobs/ui/images/logo/tufts-medical-center-logo.svg" width="175" height="150">

@@ -27,6 +27,10 @@ Packages used:
 Current verion: 1.1.7.
 
 ## Screenshots
+![](https://github.com/jgemerson/CEARsearch/blob/master/Screenshots/Methods.JPG)
+![](https://github.com/jgemerson/CEARsearch/blob/master/Screenshots/Ratios_filtered.JPG)
+![](https://github.com/jgemerson/CEARsearch/blob/master/Screenshots/Weights.JPG)
+![](https://github.com/jgemerson/CEARsearch/blob/master/Screenshots/Filter_keywords.png)
  
 ## Authors and Acknowledgement
 Funded and supported by [CEVR](http://cevr.tuftsmedicalcenter.org/) and [CEVR sponsors](https://cevr.tuftsmedicalcenter.org/sponsorship). 

@@ -26,7 +26,7 @@ Packages used:
  - [Shiny JS](https://deanattali.com/shinyjs/)
 
 ## Version
-Current verion: 1.1.7.
+Current version: 1.1.7.
 
 ## Screenshots
 ![](https://github.com/jgemerson/CEARsearch/blob/master/Screenshots/Methods.JPG)
